@@ -1,0 +1,19 @@
+{
+  "name": "ExpressJS_API_MEMBERSAPP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.1",
+    "method-override": "^3.0.0",
+    "moment": "^2.24.0",
+    "uuid": "^3.3.2"
+  }
+}
